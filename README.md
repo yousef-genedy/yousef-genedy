@@ -44,7 +44,7 @@
 | [ALX Egypt](https://www.alxafrica.com/egypt/) | Learning Community Manager  | Apr 2024 - June 2025 |
 | [Pixels Egypt](https://pixelseg.com/)         | Problem-Solving Coordinator | Sep 2022 - Sep 2023  |
 
-## Top Used Languages
+## Profile Stats
 
 <div align="center">
 
