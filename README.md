@@ -21,10 +21,10 @@
 
 ## Work Experience
 
-| 🏢 Company/Org                                | 💼 Role                           | ⏰ Duration          |
-|-----------------------------------------------|-----------------------------------|---------------------|
-| [Etisalat Egypt](https://www.eand.com.eg/)    | Software Engineer                 | Aug 2024 - Present  |
-| [Master Micro](https://adt.master-micro.com/) | Software Engineer Intern (Python) | Dec 2022 - May 2023 |
+| 🏢 Company/Org                                | 💼 Role                  | ⏰ Duration          |
+|-----------------------------------------------|--------------------------|---------------------|
+| [Etisalat Egypt](https://www.eand.com.eg/)    | Software Engineer        | Aug 2024 - Present  |
+| [Master Micro](https://adt.master-micro.com/) | Software Engineer Intern | Dec 2022 - May 2023 |
 
 ## Open Source Contributions
 | 🎁 Repo                                                                                                                | ⭐ Stars                                                                                      | 📚 Forks                                                                                | ✨ Contributions                                                                                                                                                                      |
