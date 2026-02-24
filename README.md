@@ -74,7 +74,7 @@
 <div align="center">
     <table>
         <tr>
-            <td><a href="https://github.com/yousef-genedy"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+            <td><a href="https://github.com/yousef-genedy"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a></td>
             <td><a href="https://x.com/jooahmmed"><img src="https://img.shields.io/twitter/follow/sayannath2350?label=Twitter&style=social" alt="X (Formerly Twitter)"></a></td>
             <td><a href="https://www.linkedin.com/in/yousef-genedy/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
             <td><a href="mailto:youssef.ahmmed29@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
