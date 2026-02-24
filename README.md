@@ -58,8 +58,6 @@
     </td>
   </tr>
 
-  <tr><td height="10"></td></tr>
-
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yousef-genedy&layout=compact&theme=nord" />
