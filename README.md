@@ -20,19 +20,6 @@
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Github Repo](https://img.shields.io/badge/joplin-repo-blue?style=flat-square)](https://github.com/laurent22/joplin) | ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/laurent22/joplin?style=flat-square) | [Issues](https://github.com/laurent22/joplin/issues?q=is:issue%20author:yousef-genedy) \| [Pull Requests](https://github.com/laurent22/joplin/pulls?q=is:pr+author:yousef-genedy) \| [Discussions](https://discourse.joplinapp.org/u/yousef-genedy/activity) | 
 
-## Training Experience
-
-| 🏢 Company                                     | 💼 Role                     | ⏰ Duration          |
-|------------------------------------------------|-----------------------------|---------------------|
-| [ALX Africa](https://www.alxafrica.com/egypt/) | Software Engineer Trainee   | Feb 2023 - Apr 2024 |
-
-## Volunteering Experience
-
-| 🏢 Org                                        | 💼 Role                     | ⏰ Duration           |
-|-----------------------------------------------|-----------------------------|----------------------|
-| [ALX Egypt](https://www.alxafrica.com/egypt/) | Learning Community Manager  | Apr 2024 - June 2025 |
-| [Pixels Egypt](https://pixelseg.com/)         | Problem-Solving Coordinator | Sep 2022 - Sep 2023  |
-
 ## Contact me on
 
 <div align="center">
